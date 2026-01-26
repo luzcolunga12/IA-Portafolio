@@ -3,5 +3,5 @@
 - [Ver reporte](./Reporte.html)
 - [Ver reporte](./Reporte.html)
 - [Descargar CSV](./Obesidad.csv)
-- [Ipynb](./A1.2_Regresión_lineal.ipynb)
+- [Ipynb](./A1_2_Regresion.ipynb)
 
