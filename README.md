@@ -6,6 +6,6 @@ En este portafolio se observan distintas actividades que se realizaron en el cur
 # Índice de reportes y actividades
 
 
-[A1.1 Aprendizaje estadístico-automático](./A1_Aprendizaje_estadistico_automatico/README.md)
-[A1.2 Regresión lineal](./A2_Regresion/README.md)
+- [A1.1 Aprendizaje estadístico-automático](./A1_Aprendizaje_estadistico_automatico/README.md)
+- [A1.2 Regresión lineal](./A2_Regresion/README.md)
 
