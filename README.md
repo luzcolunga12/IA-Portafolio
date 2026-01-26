@@ -7,5 +7,5 @@ En este portafolio se observan distintas actividades que se realizaron en el cur
 
 
 [A1.1 Aprendizaje estadístico-automático](./A1_Aprendizaje_estadistico_automatico/README.md)
-
+[A1.2 Regresión lineal](./A2_Regresion/README.md)
 
