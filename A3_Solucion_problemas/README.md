@@ -3,5 +3,3 @@
 - [Ver reporte](./Reporte.html)
 - [Descargar CSV](./Calificaciones.csv)
 - [Ipynb](./Calificaciones.ipynb)
-
-S
