@@ -1,4 +1,4 @@
-# Documentación A1.2_Regresion_Lineal
+# Documentación A2.2_LDA_y_arboles
 
 
 - [Ver reporte](./Reporte4.html)
