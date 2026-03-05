@@ -10,4 +10,5 @@ En este portafolio se observan distintas actividades que se realizaron en el cur
 - [A1.2 Regresión lineal](./A2_Regresion/README.md)
 - [A1.3 Solución de problemas y selección de características](./A3_Solucion_problemas/README.md)
 - [A2.1_Regresión logística_y_validación_cruzada](./A2_1/README.md)
+- [A2.2_LDA_y_arboles](./A2_2/README.md)
 
