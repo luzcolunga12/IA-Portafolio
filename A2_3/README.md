@@ -1,4 +1,4 @@
-# Documentación A1.2_Regresion_Lineal
+# Documentación A2.3_Modelos de ensamblado, SVM y Redes
 
 
 - [Ver reporte](./Reporte6.html)
