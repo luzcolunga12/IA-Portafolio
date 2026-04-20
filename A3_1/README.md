@@ -1,4 +1,4 @@
-# Documentación A3_Solución de problemas y selección de características
+# Documentación A3_1_PCA_SISTEMAS_DE_RECOMENDACION
 
 - [Ver reporte](./Reporte.html)
 - [Ipynb](./A31.ipynb)
