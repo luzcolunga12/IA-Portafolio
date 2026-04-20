@@ -1,4 +1,4 @@
-# Documentación A3_Solución de problemas y selección de características
+# Documentación A3_2_CLUSTERING
 
 - [Ver reporte](./Reporte.html)
-- [Ipynb](./A32.ipynb)
+- [Ipynb](./A2.3_Clustering.ipynb)
