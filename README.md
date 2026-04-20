@@ -12,4 +12,6 @@ En este portafolio se observan distintas actividades que se realizaron en el cur
 - [A2.1_Regresión logística_y_validación_cruzada](./A2_1/README.md)
 - [A2.2_LDA_y_arboles](./A2_2/README.md)
 - [A2.3_ENSAMBLE_SVM_REDES](./A2_3/README.md)
+- [A3.1_](./A3_1/README.md)
+- [A3.2_CLUSTERING](./A3_2/README.md)
 
